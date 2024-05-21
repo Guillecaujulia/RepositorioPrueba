@@ -1,0 +1,928 @@
+/* Estilos globales */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+
+/* Estilos para el header */
+
+.Background_Header {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  fill: rgba(170, 197, 197, 1);
+}
+
+.Boton_Login {
+  position: absolute;
+  overflow: visible;
+  width: 133px;
+  height: 40px;
+  left: 1755px;
+  top: 20px;
+  fill: rgba(59, 105, 120, 1);
+
+}
+
+
+.Login_Header {
+  text-decoration: none;
+  left: 1787px;
+  top: 32px;
+  position: absolute;
+  overflow: visible;
+  width: 71px;
+  white-space: nowrap;
+  line-height: 20px;
+  margin-top: -3px;
+  text-align: center;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.Logo_Header {
+  position: absolute;
+  width: 204px;
+  height: 68px;
+  left: 858px;
+  top: 7px;
+  overflow: visible;
+}
+
+.Template_Header {
+  text-decoration: none;
+  left: 511px;
+  top: 30px;
+  position: absolute;
+  overflow: visible;
+  width: 101px;
+  white-space: nowrap;
+  line-height: 28px;
+  margin-top: -5px;
+  text-align: left;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+
+.Beneficios_Header {
+  text-decoration: none;
+  left: 357px;
+  top: 30px;
+  position: absolute;
+  overflow: visible;
+  width: 104px;
+  white-space: nowrap;
+  line-height: 28px;
+  margin-top: -5px;
+  text-align: left;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+
+.Quienes_Header {
+  text-decoration: none;
+  left: 158px;
+  top: 30px;
+  position: absolute;
+  overflow: visible;
+  width: 148px;
+  white-space: nowrap;
+  line-height: 28px;
+  margin-top: -5px;
+  text-align: left;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+
+.Inicio_Header {
+  text-decoration: none;
+  left: 51px;
+  top: 30px;
+  position: absolute;
+  overflow: visible;
+  width: 57px;
+  white-space: nowrap;
+  line-height: 28px;
+  margin-top: -5px;
+  text-align: left;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+
+/* Estilos para el body */
+
+.Body {
+  position: absolute;
+  width: 1805px;
+  height: 857px;
+  left: 54px;
+  top: 112px;
+          overflow: visible;
+}
+
+.Imagen_Inicio {
+  position: absolute;
+  width: 849px;
+  height: 857px;
+  left: 956px;
+  top: 0px;
+  overflow: visible;
+}
+
+.icono_quiero_mi_business {
+  position: absolute;
+  overflow: visible;
+  width: 384px;
+  height: 75px;
+  left: 168px;
+  top: 748px;
+  fill: rgba(59, 105, 120, 1);
+}
+
+.quiero_mi_business_card {
+  left: 200px;
+  top: 771px;
+  position: absolute;
+  overflow: visible;
+  width: 321px;
+  height: 30px;
+  text-align: center;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.descripcion_inicio {
+  left: 56px;
+  top: 466px;
+  position: absolute;
+  overflow: visible;
+  width: 783px;
+  height: 140px;
+  line-height: 36px;
+  margin-top: -5px;
+  text-align: left;
+  font-family: Lato-Regular;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  color: rgba(81, 95, 90, 1);
+}
+
+.subtitulo_inicio {
+  left: 56px;
+  top: 330px;
+  position: absolute;
+  overflow: visible;
+  width: 721px;
+  height: 77px;
+  text-align: left;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  color: rgba(39, 55, 50, 1);
+  letter-spacing: 0.03125px;
+}
+
+.logo_guilsoft_inicio {
+  position: absolute;
+  width: 601px;
+  height: 223px;
+  left: 0px;
+  top: 101px;
+  overflow: visible;
+}
+
+/* Estilos para el footer */
+.Footer {
+  position: absolute;
+  width: 1920px;
+  height: 80px;
+  left: 0px;
+  top: 1000px;
+  overflow: visible;
+}
+
+.Background_Footer {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  fill: rgba(32, 63, 81, 1);
+}
+
+.Telefono_Contacto {
+  text-decoration: none;
+  left: 839px;
+  top: 29px;
+  position: absolute;
+  overflow: visible;
+  width: 244px;
+  white-space: nowrap;
+  line-height: 28px;
+  margin-top: -5px;
+  text-align: left;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.Telefono_Link {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 1);
+}
+
+.Logo_Footer {
+  position: absolute;
+  width: 204px;
+  height: 68px;
+  left: 26px;
+  top: 7px;
+  overflow: visible;
+}
+
+/* Estilos para Quienes Somos */
+
+.Quienes_Somos {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+  top: 100px;
+	background-color: rgba(255,255,255,1);
+	overflow: visible;
+}
+
+.Body_Quienes_Somos {
+	position: absolute;
+	width: 1920px;
+	height: 920px;
+	left: 0px;
+	top: 80px;
+	overflow: visible;
+}
+.background_quienes_somos {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 920px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+	opacity: 0.68;
+	fill: rgba(130,170,170,1);
+}
+.icono_mas_informacion {
+	position: absolute;
+	overflow: visible;
+	width: 251.596px;
+	height: 87.027px;
+	left: 783px;
+	top: 628.36px;
+	fill: rgba(59,105,120,1);
+}
+.mas_informacion {
+	left: 816px;
+	top: 658px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato-Semibold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+.descripcion_quienes_somos {
+	left: 782.899px;
+	top: 327.209px;
+	position: absolute;
+	overflow: visible;
+	width: 1056px;
+	height: 176px;
+	line-height: 36px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Lato-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(81,95,90,1);
+}
+.titulo_quienes_somos {
+	left: 782.899px;
+	top: 149.524px;
+	position: absolute;
+	overflow: visible;
+	width: 459px;
+	height: 60px;
+	line-height: 52px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(39,55,50,1);
+	letter-spacing: 0.05px;
+}
+.imagen_quienes_somos {
+	position: absolute;
+	width: 506.003px;
+	height: 621.622px;
+	left: 136.34px;
+	top: 149.524px;
+	overflow: visible;
+}
+
+/* Estilos para Beneficios */
+
+.Body_Beneficios {
+	position: absolute;
+	width: 1680px;
+	height: 645px;
+	left: 136px;
+	top: 195px;
+	overflow: visible;
+}
+
+.background_icono_soporte {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 107px;
+	left: 810px;
+	top: 523px;	fill: rgba(59,105,120,1);
+}
+
+.Descripcion {
+	left: 943px;
+	top: 570px;
+	position: absolute;
+	overflow: visible;
+	width: 724px;
+	height: 75px;
+	line-height: 28px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Lato-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(81,95,90,1);
+}
+
+.Soporte {
+	left: 943px;
+	top: 506px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(39,55,50,1);
+}
+.background_icono_unicos {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 107px;
+	left: 810px;
+	top: 284px;
+	fill: rgba(59,105,120,1);
+}
+#Descripcion_b {
+	left: 953px;
+	top: 317px;
+	position: absolute;
+	overflow: visible;
+	width: 728px;
+	height: 103px;
+	line-height: 28px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Lato-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(81,95,90,1);
+}
+.Unicos {
+	left: 953px;
+	top: 254px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arvo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(39,55,50,1);
+}
+.background_icono_servicio {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 106px;
+	left: 810px;
+	top: 31px;
+	fill: rgba(59,105,120,1);
+}
+#Descripcion_c {
+	left: 946px;
+	top: 65px;
+	position: absolute;
+	overflow: visible;
+	width: 734px;
+	height: 103px;
+	line-height: 28px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Lato-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(81,95,90,1);
+}
+.Servicio {
+	left: 946px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(39,55,50,1);
+}
+.icono_mas_info {
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	height: 75px;
+	left: 0px;
+	top: 467px;
+	fill: rgba(59,105,120,1);
+}
+.Mas_info {
+	left: 30px;
+	top: 488px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato-Semibold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.Porque_elegirnos {
+	left: 0px;
+	top: 206px;
+	position: absolute;
+	overflow: visible;
+	width: 674px;
+	height: 132px;
+	line-height: 36px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Lato-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(81,95,90,1);
+}
+.Razones {
+	left: 0px;
+	top: 104px;
+	position: absolute;
+	overflow: visible;
+	width: 642px;
+	height: 48px;
+	line-height: 52px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(39,55,50,1);
+	letter-spacing: 0.05px;
+}
+
+/* Estilos para Templates */
+
+.Template {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+}
+.Body_Template {
+	position: absolute;
+	width: 1695px;
+	height: 835.178px;
+	left: 123px;
+	top: 128.822px;
+	overflow: visible;
+}
+.imagen_template_4 {
+	position: absolute;
+	width: 328px;
+	height: 496px;
+	left: 1367px;
+	top: 332.178px;
+	overflow: visible;
+}
+.icono_template_4 {
+	position: absolute;
+	overflow: visible;
+	width: 329px;
+	height: 73px;
+	left: 1366px;
+	top: 196.178px;
+	fill: rgba(59,105,120,1);
+}
+.template_4 {
+	left: 1445px;
+	top: 212.178px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.imagen_template_3 {
+	position: absolute;
+	width: 333px;
+	height: 504px;
+	left: 908px;
+	top: 331.178px;
+	overflow: visible;
+}
+.icono_template_3 {
+	position: absolute;
+	overflow: visible;
+	width: 329px;
+	height: 73px;
+	left: 910px;
+	top: 196.178px;
+	fill: rgba(59,105,120,1);
+}
+.template_3 {
+	left: 989px;
+	top: 212.178px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.imagen_template_2 {
+	position: absolute;
+	width: 329px;
+	height: 501px;
+	left: 454px;
+	top: 331.178px;
+	overflow: visible;
+}
+.icono_template_2 {
+	position: absolute;
+	overflow: visible;
+	width: 329px;
+	height: 73px;
+	left: 454px;
+	top: 196.178px;
+	fill: rgba(59,105,120,1);
+}
+.template_2 {
+	left: 533px;
+	top: 212.178px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.imagen_template_1 {
+	position: absolute;
+	width: 329px;
+	height: 497px;
+	left: 0px;
+	top: 331.178px;
+	overflow: visible;
+}
+.icono_template_1 {
+	position: absolute;
+	overflow: visible;
+	width: 329px;
+	height: 73px;
+	left: 0px;
+	top: 196.178px;
+	fill: rgba(59,105,120,1);
+}
+.template_1 {
+	left: 79px;
+	top: 212.178px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+.Subtitulo {
+	left: 432px;
+	top: 79.178px;
+	position: absolute;
+	overflow: visible;
+	width: 812px;
+	height: 24px;
+	line-height: 36px;
+	margin-top: -8px;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(81,95,90,1);
+}
+.Templates_titulo {
+	left: 733px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	line-height: 52px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(39,55,50,1);
+	letter-spacing: 0.05px;
+}
+
+/* Estilos para Templates */
+
+.Login {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+}
+.Soy_nuevo {
+	left: 1412px;
+	top: 727px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(47,56,136,1);
+	text-decoration: underline;
+}
+.icono_iniciar_sesion {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 510px;
+	height: 67px;
+	left: 1194px;
+	top: 645px;
+	fill: rgba(32,63,81,1);
+}
+.Iniciar_sesion {
+	left: 1381px;
+	top: 658px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Mantener_sesion_iniciada {
+	left: 1234px;
+	top: 593px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.espacio_para_contrasea {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 510px;
+	height: 84px;
+	left: 1194px;
+	top: 494px;
+	fill: transparent;
+	stroke: rgba(216,213,213,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.placeholder_contrasena {
+	left: 1216px;
+	top: 515px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(191,190,190,1);
+}
+.Contrasena {
+	left: 1209px;
+	top: 461px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.espacio_para_email {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 510px;
+	height: 84px;
+	left: 1194px;
+	top: 365px;
+	fill: transparent;
+	stroke: rgba(216,213,213,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.placeholder_email {
+	left: 1216px;
+	top: 386px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(191,190,190,1);
+}
+.Email {
+	left: 1209px;
+	top: 332px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Background_login{
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+.Logo_Guilsoft {
+	position: absolute;
+	width: 469px;
+	height: 469px;
+	left: 256px;
+	top: 292px;
+	overflow: visible;
+}
+.Slogan {
+	left: 234px;
+	top: 762px;
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+
+.boton_volver_inicio {
+	opacity: 0.76;
+	left: 40px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
